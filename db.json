@@ -1,0 +1,195 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "U-Shape Sofa",
+      "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, aspernatur facilis? Debitis odio, accusamus porro excepturi, deleniti maiores ratione repellat quibusdam ut, natus quia at aliquid molestias quod quaerat ad.Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, aspernatur facilis? Debitis odio, accusamus porro excepturi, deleniti maiores ratione repellat quibusdam ut, natus quia at aliquid molestias quod quaerat ad.",
+      "price":3500,
+      "quantity": 17,
+      "category": "sofas",
+      "rate": 4,
+      "discount": 10,
+      "productInfo":[
+        {
+            "key": "color",
+            "value": "gray"
+        },
+        {
+            "key": "material",
+            "value": "Red Beech Wood"
+        }
+      ],
+      "images": [
+        "https://eg.homzmart.net/catalog/product/w/e/we1.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we2_1.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we5_1.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we4.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we8.jpg"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "U-Shape Sofa",
+      "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, aspernatur facilis? Debitis odio, accusamus porro excepturi, deleniti maiores ratione repellat quibusdam ut, natus quia at aliquid molestias quod quaerat ad.Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, aspernatur facilis? Debitis odio, accusamus porro excepturi, deleniti maiores ratione repellat quibusdam ut, natus quia at aliquid molestias quod quaerat ad.",
+      "price": 4230,
+      "quantity": 17,
+      "category": "sofas",
+      "rate": 4,
+      "discount": 12,
+      "productInfo":[
+        {
+            "key": "color",
+            "value": "gray"
+        },
+        {
+            "key": "material",
+            "value": "Red Beech Wood"
+        }
+      ],
+      "images": [
+        "https://eg.homzmart.net/catalog/product/s/e/se_copy_.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we2_1.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we5_1.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we4.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we8.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "U-Shape Sofa",
+      "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, aspernatur facilis? Debitis odio, accusamus porro excepturi, deleniti maiores ratione repellat quibusdam ut, natus quia at aliquid molestias quod quaerat ad.Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, aspernatur facilis? Debitis odio, accusamus porro excepturi, deleniti maiores ratione repellat quibusdam ut, natus quia at aliquid molestias quod quaerat ad.",
+      "price": 1200,
+      "quantity": 17,
+      "category": "sofas",
+      "rate": 4,
+      "discount": 8,
+      "productInfo":[
+        {
+            "key": "color",
+            "value": "gray"
+        },
+        {
+            "key": "material",
+            "value": "Red Beech Wood"
+        }
+      ],
+      "images": [
+        "https://eg.homzmart.net/catalog/product/r/a/rawnaq.ap01.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we2_1.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we5_1.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we4.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we8.jpg"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "U-Shape Sofa",
+      "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, aspernatur facilis? Debitis odio, accusamus porro excepturi, deleniti maiores ratione repellat quibusdam ut, natus quia at aliquid molestias quod quaerat ad.Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, aspernatur facilis? Debitis odio, accusamus porro excepturi, deleniti maiores ratione repellat quibusdam ut, natus quia at aliquid molestias quod quaerat ad.",
+      "price": 3000,
+      "quantity": 23,
+      "category": "sofas",
+      "rate": 4,
+      "discount":23,
+      "productInfo":[
+        {
+            "key": "color",
+            "value": "gray"
+        },
+        {
+            "key": "material",
+            "value": "Red Beech Wood"
+        }
+      ],
+      "images": [
+        "https://eg.homzmart.net/catalog/product/t/1/t11_copy__1_1.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we2_1.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we5_1.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we4.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we8.jpg"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "U-Shape Sofa",
+      "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, aspernatur facilis? Debitis odio, accusamus porro excepturi, deleniti maiores ratione repellat quibusdam ut, natus quia at aliquid molestias quod quaerat ad.Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, aspernatur facilis? Debitis odio, accusamus porro excepturi, deleniti maiores ratione repellat quibusdam ut, natus quia at aliquid molestias quod quaerat ad.",
+      "price": 7650,
+      "quantity": 17,
+      "category": "sofas",
+      "rate": 4,
+      "discount": 14,
+      "productInfo":[
+        {
+            "key": "color",
+            "value": "gray"
+        },
+        {
+            "key": "material",
+            "value": "Red Beech Wood"
+        }
+      ],
+      "images": [
+        "https://eg.homzmart.net/catalog/product/1/_/1_501_1.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we2_1.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we5_1.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we4.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we8.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "U-Shape Sofa",
+      "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, aspernatur facilis? Debitis odio, accusamus porro excepturi, deleniti maiores ratione repellat quibusdam ut, natus quia at aliquid molestias quod quaerat ad.Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, aspernatur facilis? Debitis odio, accusamus porro excepturi, deleniti maiores ratione repellat quibusdam ut, natus quia at aliquid molestias quod quaerat ad.",
+      "price": 3100,
+      "quantity": 17,
+      "category": "sofas",
+      "rate": 4,
+      "discount": 9,
+      "productInfo":[
+        {
+            "key": "color",
+            "value": "gray"
+        },
+        {
+            "key": "material",
+            "value": "Red Beech Wood"
+        }
+      ],
+      "images": [
+        "https://eg.homzmart.net/catalog/product/p/i/picsart_08-14-09.04.29_copy_.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we2_1.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we5_1.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we4.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we8.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "U-Shape Sofa",
+      "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, aspernatur facilis? Debitis odio, accusamus porro excepturi, deleniti maiores ratione repellat quibusdam ut, natus quia at aliquid molestias quod quaerat ad.Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, aspernatur facilis? Debitis odio, accusamus porro excepturi, deleniti maiores ratione repellat quibusdam ut, natus quia at aliquid molestias quod quaerat ad.",
+      "price": 2700,
+      "quantity": 17,
+      "category": "sofas",
+      "rate": 4,
+      "discount": 19,
+      "productInfo":[
+        {
+            "key": "color",
+            "value": "gray"
+        },
+        {
+            "key": "material",
+            "value": "Red Beech Wood"
+        }
+      ],
+      "images": [
+        "https://eg.homzmart.net/catalog/product/w/e/we1.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we2_1.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we5_1.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we4.jpg",
+        "https://eg.homzmart.net/catalog/product/w/e/we8.jpg"
+      ]
+    }
+  ]
+
+  
+}
